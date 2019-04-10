@@ -24,8 +24,8 @@ $theme-colors: (
   danger: #dc3545
 );
 
-$body-bg: white;
-$body-color: #333;
+$body-bg: #151515;
+$body-color: #f3f3f3;
 
 
 $body-color-inverse: invert($body-color) !default;
@@ -40,5 +40,7 @@ $headings-font-weight: 200;
 $lead-font-size:   1.30rem;
 
 $spacer: 1.5rem;
+
+
 
 @import 'bootstrap-4.2.1';
