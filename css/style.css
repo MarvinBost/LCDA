@@ -39,6 +39,7 @@ body::-webkit-scrollbar-thumb {
 }
 a:hover{
     color: #ffc107 !important;
+	text-decoration : none;
 }
 a{
     transition: 1s all;
